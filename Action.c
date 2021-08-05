@@ -1,8 +1,7 @@
 Action()
-
+//comment
 		{
-	// comment
-	web_custom_request("web_custom_request",
+		web_custom_request("web_custom_request",
 		"URL=https://blazedemo.com/",
 		"Method=GET",
 		"TargetFrame=",
